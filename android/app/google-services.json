@@ -8,20 +8,12 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:144464435218:android:eb12437f3f7b40cb5860cb",
+        "mobilesdk_app_id": "1:144464435218:android:f30694cbf8946f635860cb",
         "android_client_info": {
-          "package_name": "com.hassan.ameen_project"
+          "package_name": "com.app.p5623DC"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "144464435218-8iavdsfo5eh25brv7etp9grfat76mb5o.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.hassan.ameen_project",
-            "certificate_hash": "292878166594b4b32853cc06f33b8ef9d90b6c8f"
-          }
-        },
         {
           "client_id": "144464435218-u0l3692tek3qunk7vlh9pm6jduht02nj.apps.googleusercontent.com",
           "client_type": 3
@@ -38,6 +30,13 @@
             {
               "client_id": "144464435218-u0l3692tek3qunk7vlh9pm6jduht02nj.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "144464435218-d8baks5lvrh4mtmtbvj2q80t3te7hb41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hassan.ameenProject"
+              }
             }
           ]
         }

@@ -1,4 +1,4 @@
-package com.hassan.ameen_project
+package com.app.p5623DC
 
 import android.os.Bundle
 
