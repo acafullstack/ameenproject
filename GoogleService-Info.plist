@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>144464435218-d8baks5lvrh4mtmtbvj2q80t3te7hb41.apps.googleusercontent.com</string>
+	<string>144464435218-tco81r2kbi02b29e45ijspak32r4rskk.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.144464435218-d8baks5lvrh4mtmtbvj2q80t3te7hb41</string>
+	<string>com.googleusercontent.apps.144464435218-tco81r2kbi02b29e45ijspak32r4rskk</string>
 	<key>ANDROID_CLIENT_ID</key>
 	<string>144464435218-8iavdsfo5eh25brv7etp9grfat76mb5o.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.hassan.ameenProject</string>
+	<string>com.ameencd3265</string>
 	<key>PROJECT_ID</key>
 	<string>ameen-projects</string>
 	<key>STORAGE_BUCKET</key>
@@ -31,7 +31,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:144464435218:ios:e658b9f829f275ae5860cb</string>
+	<string>1:144464435218:ios:94d56ac80db3cdfe5860cb</string>
 	<key>DATABASE_URL</key>
 	<string>https://ameen-projects.firebaseio.com</string>
 </dict>
