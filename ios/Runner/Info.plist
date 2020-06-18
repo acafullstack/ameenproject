@@ -32,16 +32,14 @@
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>This app needs access to location when open and in the background.</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>This app needs access to location when in the background.</string>
+	<string>Location needed to find out local events and janazah</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>This app needs access to location when open.</string>
+	<string>Location needed to find out local events and janazah</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>This app Needs to access photo Library</string>
+	<string>That’s needed so users can upload event flyers, deceased pictures, business flyers as well</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>This app needs access to Photo library</string>
+	<string>That’s needed so users can upload event flyers, deceased pictures, business flyers as well</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
