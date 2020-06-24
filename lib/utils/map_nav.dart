@@ -1,3 +1,5 @@
+import 'dart:ffi';
+
 import 'package:geocoder/geocoder.dart';
 import 'package:google_maps_webservice/directions.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -26,6 +28,7 @@ extractCoordinates(String address) async {
   double lon = first.coordinates.longitude;
 
   return Location(lat, lon);
+
 }
 
 launchingURLWithLatLng(double lat, double lon) async {
@@ -33,10 +36,8 @@ launchingURLWithLatLng(double lat, double lon) async {
   if (await canLaunch(url)) {
     await launch(url);
   } else {
-    url = 'http://maps.google.com/maps?q=$lat,$lon';
-    if (await canLaunch(url)) {
-      await launch(url);
-    } else
-      throw 'Could not launch $url';
+    throw 'Could not launch $url';
   }
 }
+
+
